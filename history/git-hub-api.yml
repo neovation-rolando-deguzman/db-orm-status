@@ -1,7 +1,7 @@
 url: https://api.github.com
-status: up
-code: 200
-responseTime: 95
-lastUpdated: 2026-04-19T23:30:03.785Z
+status: down
+code: 403
+responseTime: 36
+lastUpdated: 2026-04-20T19:34:32.569Z
 startTime: 2026-03-13T15:19:54.263Z
 generator: Upptime <https://github.com/upptime/upptime>
